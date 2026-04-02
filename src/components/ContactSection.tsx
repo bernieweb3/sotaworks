@@ -23,7 +23,7 @@ const contacts = [
   {
     icon: MessageCircle,
     label: "Telegram",
-    value: "@sotaworks",
+    value: "@sotaworksvn",
     href: "https://t.me/sotaworks",
   },
   {
