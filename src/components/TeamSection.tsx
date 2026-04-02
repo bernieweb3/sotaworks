@@ -46,13 +46,13 @@ const coreTeam: TeamMember[] = [
     ],
   },
   {
-    name: "Dương Ngọc Ánh",
+    name: "Anh Duong Ngoc",
     role: "Co-founder / CMO / CFO",
     photo: anhPhoto,
     tier: "core",
   },
   {
-    name: "Huỳnh Tấn Phát",
+    name: "Phat Huynh Tan",
     role: "Co-founder / CIO",
     photo: phatPhoto,
     tier: "core",
@@ -61,13 +61,13 @@ const coreTeam: TeamMember[] = [
 
 const keyMembers: TeamMember[] = [
   {
-    name: "Nguyễn Hoàng Bảo Trân",
+    name: "Tran Nguyen Hoang Bao",
     role: "COO",
     photo: tranPhoto,
     tier: "key",
   },
   {
-    name: "Phạm Trần Anh Vũ",
+    name: "Vu Pham Tran Anh",
     role: "CCO",
     photo: vuPhoto,
     tier: "key",
