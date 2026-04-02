@@ -61,7 +61,7 @@ const coreTeam: TeamMember[] = [
 
 const keyMembers: TeamMember[] = [
   {
-    name: "Nguyễn Hoàng Bảo Trân",
+    name: "Tran Nguyen Hoang Bao",
     role: "COO",
     photo: tranPhoto,
     tier: "key",
