@@ -46,7 +46,7 @@ const coreTeam: TeamMember[] = [
     ],
   },
   {
-    name: "Dương Ngọc Ánh",
+    name: "Anh Duong Ngoc",
     role: "Co-founder / CMO / CFO",
     photo: anhPhoto,
     tier: "core",
