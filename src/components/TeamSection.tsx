@@ -52,7 +52,7 @@ const coreTeam: TeamMember[] = [
     tier: "core",
   },
   {
-    name: "Huỳnh Tấn Phát",
+    name: "Phat Huynh Tan",
     role: "Co-founder / CIO",
     photo: phatPhoto,
     tier: "core",
