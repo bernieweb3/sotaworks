@@ -67,7 +67,7 @@ const keyMembers: TeamMember[] = [
     tier: "key",
   },
   {
-    name: "Phạm Trần Anh Vũ",
+    name: "Vu Pham Tran Anh",
     role: "CCO",
     photo: vuPhoto,
     tier: "key",
