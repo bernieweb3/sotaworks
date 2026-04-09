@@ -14,10 +14,10 @@ const projects = [
     tag: "Consumer",
   },
   {
-    name: "Thực Lực Số",
+    name: "Thuc Luc So (Your Digital Real Strength)",
     description: "Digital competency platform empowering Vietnamese users in the digital age.",
     link: "https://docs.google.com/document/d/1ZZdw-RAQGu_UGvOBfSJk8RJhgWiz26r1/edit?usp=sharing&ouid=110342906505783501061&rtpof=true&sd=true",
-    tag: "Web2",
+    tag: "Consumer dApp and Infrastructure",
   },
   {
     name: "ALT30",
