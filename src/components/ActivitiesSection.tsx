@@ -9,7 +9,7 @@ const upcomingActivities = [
   "Sui Overflow 2026",
   "Cardano SEA Hackathon 2026",
   "TLS-Innovation 2026",
-  "Creative Science Contest 2026",
+  "Bach Khoa Innovation 2026",
   "Qwen AI Build Day",
 ];
 
