@@ -10,7 +10,7 @@ const upcomingActivities = [
   "Cardano SEA Hackathon 2026",
   "TLS-Innovation 2026",
   "Bach Khoa Innovation 2026",
-  "Qwen AI Build Day",
+  "Qwen AI Build Day 2026",
 ];
 
 const ActivitiesSection = () => {
