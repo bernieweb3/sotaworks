@@ -2,12 +2,12 @@ import { Trophy, Calendar, ArrowRight } from "lucide-react";
 
 const pastActivities = [
   { name: "LotusHack Hackathon 2026", result: "Participated" },
-  { name: "APEC Innovation (2nd edition)", result: "Semi-finalist" },
+  { name: "APEC Innovation (2nd season)", result: "Semi-finalist" },
 ];
 
 const upcomingActivities = [
-  "Startup Wheel 2026",
-  "Khởi nghiệp cùng Kawai 2026",
+  "Sui Overflow 2026",
+  "Cardano SEA Hackathon 2026",
   "TLS-Innovation 2026",
   "Creative Science Contest 2026",
   "Qwen AI Build Day",
